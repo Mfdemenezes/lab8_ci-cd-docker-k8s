@@ -1,0 +1,1 @@
+# lab8_ci-cd-docker-k8s
